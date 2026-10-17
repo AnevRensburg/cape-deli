@@ -253,5 +253,6 @@ export const SITE: SiteConfig = {
     "hours": [],
     "socials": []
   },
+  "logoStyle": "wordmark",
   "slug": "cape-deli"
 };
