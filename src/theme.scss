@@ -1,0 +1,36 @@
+/* Generated from sites/cape-deli/site.json. */
+:root {
+  --bg: #faf6f1;
+  --bg-alt: #f1e9df;
+  --surface: #ffffff;
+  --ink: #1f1a17;
+  --muted: #665b53;
+  --line: #e7dccf;
+  --accent: #c8322b;
+  --accent-strong: #9e211b;
+  --accent-ink: #ffffff;
+  --accent-soft: #f7dcd8;
+  --accent-on-dark: #f08a7f;
+  --dark: #1f1a17;
+  --dark-ink: #ffffff;
+  --error: #b42318;
+  --font-display: 'Oswald', 'Arial Narrow', sans-serif;
+  --font-body: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 600;
+  --display-tracking: 0.005em;
+  --radius: 10px;
+  --button-radius: 8px;
+  --hero-position: center;
+  --logo-ratio: 1.89;
+  --product-position: center;
+  --topbar-bg: #1f1a17;
+  --topbar-ink: #ffffff;
+  --topbar-line: rgb(255 255 255 / 0.15);
+  --product-fit: cover;
+  --product-bg: #faf6f1;
+  --logo-bg: #f4efe9;
+  --logo-pad: 0.3rem 0.5rem;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
